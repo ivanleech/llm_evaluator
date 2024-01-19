@@ -1,0 +1,7 @@
+trulens_eval==0.19.2
+llama_index==0.9.24
+pydantic<2
+litellm==1.18.0
+pypdf==3.17.4
+torch==2.1.0
+sentence-transformers==2.2.2
